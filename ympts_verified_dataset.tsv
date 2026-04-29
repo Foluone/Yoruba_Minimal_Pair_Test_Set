@@ -1,0 +1,153 @@
+ympts_id	original_id	type	form_1	tone_1	gloss_1	form_2	tone_2	gloss_2	form_3	tone_3	gloss_3	minimal_diff	three_way	corpus_source	native_verified	neutralization_risk	verification_note
+YMPTS-A-001	B3-A-008	A	ro	M	to pain severely; to ache; to cultivate; to drip	ró	H	to sound; to place in an erect position; excite	rò	L	to tell; to imagine; to think; to think deeply; trouble	tone	Y	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-002	B3-A-009	A	tu	M	to expectorate; to throw out; to pluck up	tú	H	to loosen; to untie; to break; to scatter	tù	L	to soothe; to reconcile; to gather together	tone	Y	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-003	B3-A-011	A	mu	M	to drink; to take; to ingest (mid)	mú	H	to catch; to seize; to bring (high)	mù	L	to sink; to disappear; to be immersed in water	tone	Y	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-004	B3-A-014	A	ri	M	never; at no time; formerly	rí	H	to see; to find (high, standard)	rì	L	to sink; to dip into (low)	tone	Y	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-005	B3-A-015	A	ha	M	to scratch; to bruise; indeed	há	H	no indeed	hà	L	amazement; to lock	tone	Y	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-006	B3-A-024	A	pa	M	to kill; to extinguish (mid)	pá	H	to be bald; to be barren				tone	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-007	B3-A-026	A	ya	M	ready; soon; to give way; to separate	yá	H	to tear; lacerate; secede				tone	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-008	B3-A-028	A	sa	M	awhile; for a time	sá	H	to air; to flee; to expose to the sun to dry; for				tone	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-009	B3-A-029	A	ètú	LH	a type of deer	ẹtù	L	gunpowder; guinea fowl; a type of bird				tone	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-010	B3-A-033	A	ku	M	suddenly	kù	L	to remain; leftover; remainder (low)				tone	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-011	B3-A-038	A	wo	M	lo!; behold	wò	L	to visit; to see; to take care of;				tone	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-012	B3-A-039	A	fi	M	to use; to put; instrumental marker (mid)	fí	H	to rub; to press against; to smear (high)				tone	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-013	B3-A-040	A	fun	M	to blow; snort	fún	H	to give; on behalf of; to choke				tone	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-014	YMPTS-0002	A	bó	H	to peel	bo	M	to cover; to wrap (mid tone)	bọ́	H	to appease a diety; to feed	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-015	YMPTS-0003	A	dá	H	to create	da	M	to pour	dà	L	to ejaculate	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-016	YMPTS-0004	A	di	M	to become	dí	H	to block; to obstruct (high tone)	dì	L	to tie up	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-017	YMPTS-0006	A	gba	M	to span across; to cross over (mid tone)	gbà	L	to receive; to accept; to agree (low tone)	gbá	H	to sweep	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-018	YMPTS-0009	A	já	H	já (through; to break; to cut; to span across; to cross over)	jà	L	to fight; to struggle	ja	M	to snap	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-019	YMPTS-0010	A	kú	H	to die; greeting of respect (high tone)	kù	L	to remain; what is left; remainder (low tone)	ku	M	to remain; to be left (mid tone, variant)	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-020	YMPTS-0011	A	lè	L	can; may; to be able (modal auxiliary, low tone)	le	M	to be hard; to be difficult (mid tone)	lé	H	to drive away; to exceed; to surpass (high tone)	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-021	YMPTS-0013	A	mọ̀	L	to know; to be aware of (low tone)	mọ	M	to be familiar with; to mould	mo	M	I; me (1st sg. pronoun, mid tone)	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-022	YMPTS-0015	A	ọkọ̀	L	vehicle; car; canoe (high-low tone)	ọkọ	M	husband	óko	H	farm; plantation (undiacritized variant)	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-023	YMPTS-0018	A	pé	H	to be complete	pe	M	correct; to be full, complete, pure, holy, assemble	pè	L	to call by name; to invoke (low tone)	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-024	YMPTS-0020	A	sí	H	to open; and	sì	L	to be calm	si	M	and; also; likewise	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-025	YMPTS-0021	A	ta	M	to sell; to shoot	tà	L	to sell; to peddle; to make profit	tá	H	to shoot	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-026	YMPTS-0022	A	tí	H	that; which; who (relativizer, high tone)	ti	M	of; belonging to; already (mid tone)	tì	L	to push; to lean against; to press (low tone)	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-027	YMPTS-0023	A	wà	L	to exist; to be present (low tone)	wá	H	to come	wa	M	to search; to look for (mid tone, variant)	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-028	YMPTS-0025	A	àgbà	LL	elder; senior person; old person (low-low)	àgbá	LH	barrel; drum; large container (low-high)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-029	YMPTS-0026	A	ara	M	body; self	ará	H	citizen; native of a place; relative (mid-high)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-030	YMPTS-0028	A	bá	H	to meet	ba	M	to catch up with someone; to perch				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-031	YMPTS-0029	A	baba	M	father; grandfather (mid-mid, undiacritized)	bàbá	LH	father; form of address for elder (low-high)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-032	YMPTS-0030	A	dé	H	to arrive; to wear on the head; to close (high)	de	M	to cover; to close				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-033	YMPTS-0032	A	fẹ́	H	to want; to blow (wind); about to (high tone)	fẹ	M	to want; to love; to desire (mid tone, variant)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-034	YMPTS-0033	A	fi	M	to use; to put; instrumental marker (mid tone)	fí	H	to rub; to press against; to smear (high tone)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-035	YMPTS-0034	A	fún	H	to give; for; on behalf of (high tone)	fun	M	to give; for (mid tone, variant)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-036	YMPTS-0035	A	gbé	H	to carry; to lift; to take away (high tone)	gbè	L	to vindicate; to justify; to be advantageous				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-037	YMPTS-0038	A	iyun	M	coral bead; ornamental bead (mid-mid)	iyùn	L	coral; red coral bead (mid-low tone)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-038	YMPTS-0039	A	jẹ́	H	to be; to allow; to let (high tone)	jẹ	M	to eat; to consume; to chew (mid tone, variant)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-039	YMPTS-0040	A	kan	M	one; a; any; each (mid tone)	kàn	L	to touch; to concern				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-040	YMPTS-0041	A	kí	H	to greet	kì	L	to praise; to shower ecomiums				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-041	YMPTS-0043	A	máa	H	habitually; usually; aspect marker (high-high)	màá	LH	will; future tense marker (low-high)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-042	YMPTS-0045	A	mi	M	me; my; mine	mí	H	to breathe				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-043	YMPTS-0046	A	ní	H	at; in; quotative marker; to say (high tone)	ni	M	to have; copula; it is (mid tone)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-044	YMPTS-0048	A	ogun	M	war; conflict	ogún	H	inheritance; twenty				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-045	YMPTS-0052	A	rẹ̀	L	to be ripe	rẹ	M	yours; his; her (possessive, mid tone, variant)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-046	YMPTS-0053	A	tó	H	to be sufficient	to	M	to arrange				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-047	YMPTS-0054	A	wọ́n	H	to be dear; to take to pieces, to sprinkle; to be weaned from the breast.	wọn	M	they; them (3rd pl., mid tone, standard)				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-048	YMPTS-A-N01	A	kò	L	negative auxiliary; it is not; refused (low tone)	ko	M	to gather	kó	H	to gather; to collect; to pack up (high tone)	tone	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-049	YMPTS-A-N03	A	bí	H	to give birth	bi	M	to ask				tone	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-A-050	B3-A-001	A	ka	M	to count; to read aloud (mid tone)	ká	H	to surround; to encircle (high tone)	kà	L	to read; low tone variant	tone	Y	batch3	1	N	Adjudicated.
+YMPTS-A-051	B3-A-002	A	la	M	to split open; to crack (mid tone)	lá	H	to dream; to lick clean (high tone)	là	L	to lick (low tone, variant)	tone	Y	batch3	1	N	Adjudicated.
+YMPTS-A-052	B3-A-003	A	fa	M	to pull; to drag; to attract (mid)	fá	H	to shave; to be smooth (high)	fà	L	to pull (low, variant)	tone	Y	batch3	1	N	Adjudicated.
+YMPTS-A-053	B3-A-007	A	ji	M	to wake up; to rise (mid)	jì	L	to be forgotten; to fade (low)	jí	H	to steal; to rob (high)	tone	Y	batch3	1	N	Adjudicated.
+YMPTS-A-054	B3-A-027	A	na	M	to beat; to flog (mid)	ná	H	to spend money; to be costly (high)				tone	N	batch3	1	N	Adjudicated.
+YMPTS-B-001	B3-B-001	B	owó	H	money; wealth; cash — o vowel, high	ọwọ́	H	hand; arm (ọ vowel, high)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-002	B3-B-002	B	ọ̀kan	L	one; number one — ọ vowel, low-mid	ọkàn	L	heart; mind; soul (ọ vowel, mid-low)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-003	B3-B-003	B	ẹ̀rọ	L	machine; engine; device — ẹ+ọ vowels	èrò	LL	thought; thinking; idea; reflection (e+o vowels)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-004	B3-B-004	B	ọ̀pọ̀	LL	many; numerous; a lot — ọ vowel, low-low	òpó	LH	pole				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-005	B3-B-005	B	ọ̀rọ̀	LL	word; speech; matter — ọ vowel	orò	L	ritual; Oro masquerade; secret society (o vowel)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-006	B3-B-007	B	àkókò	LHL	time; period; season; era — o vowel	àkọ́kọ́	LHH	first; number one; primary (ọ vowel)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-007	B3-B-013	B	ẹbí	H	family; kinship; relative — ẹ vowel	ebi	M	hunger; famine (e vowel)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-008	B3-B-015	B	ewé	H	leaf; herb; vegetable leaf — e vowel, high	ẹ̀wẹ̀	LL	again; the second time				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-009	B3-B-017	B	opè	L	òpè (an ignorant person)	ọpẹ́	H	gratitude; thanks (ọ+ẹ vowels, high)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-010	B3-B-018	B	àjẹ	L	àjẹ́ (witch; malevolent female spirit)	àjé	LH	wealth; riches; prosperity (e vowel)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-011	B3-B-019	B	ẹwà	L	beauty; attractiveness — ẹ vowel	ẹ̀wà	LL	beans; cowpeas (e vowel)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-012	B3-B-021	B	ọdẹ	M	ọdẹ (hunter — ọ+ẹ vowels)	ode	M	outside; exterior (o+e vowels)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-013	B3-B-022	B	ọrẹ	M	ọ̀rẹ́ (friend; companion)	ore	M	kindness				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-014	B3-B-025	B	iṣe	M	ìṣe (custom; character; action)	isẹ	M	denial				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-015	B3-B-027	B	lọ́wọ́	HH	from; in; at; under the influence of; at the hand of;	lówó	HH	with resources (o vowel, variant)				vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-016	YMPTS-0061	B	igbe	M	a type of loud cry; shouting (undiacritized)	igbẹ	M	ìgbẹ́ (forest; bush; wilderness; feaces)	ịgbẹ	M	bush; wilderness (ị subscript variant)	vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-017	YMPTS-0062	B	kolekole	M	kólékólé (thief; armed robber)	kolẹkolẹ	M	kólẹ̀kólẹ̀ (clearner)	kọlekọle	M	kọ́lékọ́lé (builder; bricklayer)	vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-018	YMPTS-0064	B	oni	M	òní (today)	ọni	M	ọ̀nì (crocodile; alligator	ọnị	M	today (ọ + ị subscript variant)	vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-019	YMPTS-0066	B	osun	M	osùn (sacred red dye; camwood)	ọsun	M	Òsùn (kind of herb)	ọṣun	M	Òsun (river goddess)	vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-020	YMPTS-0068	B	sọ	M	to say; to speak	so	M	to tie; to bind; to produce fruit (o vowel, mid)	ṣọ	M	ṣọ́ (to guard, to watch)	vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-021	YMPTS-0070	B	wo	M	to look at; to examine (o vowel, mid tone)	wọ	M	to put on clothing; to enter; to wear (ọ vowel)	wó	H	to collapse; to fall down; to crumble (high tone)	vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-022	YMPTS-0071	B	aaro	M	àáró (the act of working for each other by term)	aarọ	M	àárọ̀ (morning; dawn; early morning)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-023	YMPTS-0074	B	agbe	M	beggar	agbẹ	M	àgbẹ̀ (farmer; one who farms the land)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-024	YMPTS-0077	B	ago	M	cup; mug; jug	agọ	M	àgọ́ (tent; hut; encampment)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-025	YMPTS-0078	B	aje	M	wealth; spirit of prosperity (undiacritized)	ajẹ	M	Àjẹ́ (witch; female malevolent spirit)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-026	YMPTS-0081	B	akete	M	bed	akẹtẹ	M	Àkẹtẹ̀ (hat)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-027	YMPTS-0083	B	akoto	M	broken calabash or gourd; without virginity	akọtọ	M	standard way of writing				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-028	YMPTS-0085	B	ale	M	local gin	alẹ	M	Alẹ́ (evening)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-029	YMPTS-0086	B	apere	M	Àpèrè (stool)	apẹrẹ	M	Àpẹrẹ (example; illustration)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-030	YMPTS-0087	B	aro	M	Aró (indigo dye; blue dye)	arọ	M	a lame person				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-031	YMPTS-0089	B	awo	M	Àwo (plate; dish; bowl)	awọ	M	Awọ (leather)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-032	YMPTS-0090	B	ayo	M	ayo - Yoruba game	ayọ	M	joy; happiness; gladness; delight (ọ vowel)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-033	YMPTS-0091	B	baale	M	Baálé (husband)	baalẹ	M	Baálẹ̀ (compound head; community leader)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-034	YMPTS-0092	B	beere	M	Bèèrè (to ask; to request)	bẹẹrẹ	M	Bẹẹrẹ (many, uncountable)				vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-035	YMPTS-B-N01	B	lo	M	to use	lọ	M	to go; directional verb; to travel (ọ vowel, mid tone)	ló	H	to employ	vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-B-036	B3-B-009	B	èkejì	LL	second; number two — e vowel	ẹ̀kejì	LL	second (ẹ vowel, more formal variant)				vowel_quality	N	batch3	1	N	Adjudicated.
+YMPTS-C-001	B3-C-003	C	gẹ́gẹ́	HH	just as; similarly; exactly — adverb	gẹ̀gẹ̀	LL	carefully	gẹ́gé	HH	type of calabash gourd (noun)	tone+vowel_quality	Y	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-002	B3-C-004	C	irọ́	H	lie; falsehood; untruth — ọ vowel, mid-high	ìro	L	aching pain; ailment	ìró	LH	sound	tone+vowel_quality	Y	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-003	B3-C-005	C	àmọ́	LH	but; however; yet — conjunction, low-high)	amọ	M	Amọ̀ (clay; mud)				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-004	B3-C-006	C	ẹgbẹ́	H	group; side; organization — ẹ vowel	ègbè	LL	support; chorus	ègbé	LH	woe; damnation	tone+vowel_quality	Y	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-005	B3-C-007	C	sílẹ̀	HL	aground	sílé	HH	house opening	sile	M	undiacritized (mid-mid)	tone+vowel_quality	Y	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-006	B3-C-009	C	orílẹ̀	HL	country; nation; homeland — ẹ vowel, low	orílé	HH	a town				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-007	B3-C-010	C	ọ̀la	L	tomorrow; the next day — ọ vowel, low-mid	ọla	M	Ọlá (wealth; honour; prestige)				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-008	B3-C-021	C	ọ̀mọ̀wẹ̀	LLL	swimmer	ọ̀mọ̀wé	LLH	educated person (ọ vowel, high on final)				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-009	B3-C-025	C	àṣé	LH	authority; creative power; amen — ṣ+e vowel	àṣẹ	L	amen	àṣe	L	authority (s+e, undiacritized)	tone+vowel_quality	Y	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-010	B3-C-026	C	rẹ̀	L	to feel fatigued; to be tired;	re	M	to change feathers as birds; moult; fall off as hair or leaves				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-011	B3-C-027	C	wọ́n	H	to be dear; to take to pieces, to sprinkle; to be weaned from the breast.	wọn	M	they; them (standard, mid)				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-012	B3-C-028	C	ẹ̀ṣẹ̀	LL	sin; wrongdoing — ẹ+ṣ+ẹ	ẹsẹ̀	L	foot; leg (ẹ+s+ẹ)				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-013	B3-C-029	C	ọsẹ	M	Ọ̀sẹ̀ (week)	ọṣẹ	M	soap				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-014	B3-C-030	C	ọ̀kẹ́	LH	large number; five-score	òkè	LL	hill; mountain; top (o vowel, high-low)				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-015	B3-C-043	C	oje	M	sap of trees; gum	ọjẹ	M	Ọ̀jẹ̀ (masquerade)				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-016	B3-C-044	C	ẹ̀gbá	LH	Egba ethnic group; Egba people — ẹ vowel	ẹgba	M	Ẹ̀gbà (bracelet)				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-017	B3-C-045	C	ẹni	M	a person; someone; mat	eni	M	Ení (one; unit)				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-018	B3-C-047	C	ìwé	LH	book; document — e vowel, low-high)	ìwẹ̀	LL	bathing; wash (ẹ vowel, low-low)				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-019	B3-C-048	C	àgọ́	LH	a tent; shed; pavilion	ago	M	cup; mug; jug				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-020	B3-C-049	C	òwe	L	proverb; saying; adage — e vowel)	ọ̀wẹ̀	LL	plea; club or company summoned to assist in labour				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-021	B3-C-051	C	ẹ̀bẹ̀	LL	plea; supplication; earnest begging — ẹ vowel	ebè	L	a heap of earth made fo planting				tone+vowel_quality	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-022	YMPTS-C-001	C	kò	L	negative auxiliary; refused; it is not (low tone, o vowel)	kọ	M	to build; to write; to learn (mid tone, ọ vowel)	kó	H	to gather; to pack up; to collect (high tone, o vowel)	tone+vowel_quality	Y	cde	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-023	YMPTS-C-002	C	èmi	L	I; me (1st sg. pronoun, low tone, e vowel)	ẹ̀mí	LH	breath; life force; spirit (low-high tone, ẹ vowel)				tone+vowel_quality	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-024	YMPTS-C-003	C	ló	H	was	lọ	M	to go; directional marker (mid tone, ọ vowel)	lo	M	to use; to pass by (mid tone, o vowel, undiacritized)	tone+vowel_quality	Y	cde	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-025	YMPTS-C-004	C	ilé	H	house; home; building (high tone, e vowel)	ilẹ̀	L	earth; ground; floor; land (low tone, ẹ vowel)	ilẹ	M	ilẹ̀ (earth, ground)	tone+vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-026	YMPTS-C-007	C	ohun	M	thing; object; matter (mid tone, o vowel)	ọ̀hún	LH	there	ohùn	L	voice; sound (mid-low tone, o vowel, variant)	tone+vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-027	YMPTS-C-008	C	yọ	M	to emerge; to escape; to be joyful (mid tone, ọ vowel)	yó	H	will (future aspect); to be satiated (high tone, o vowel)	yọ̀	L	to slip; to fall; to rejoice	tone+vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-028	YMPTS-C-009	C	ọjọ́	H	day; daytime; calendar day (ọ vowel, high-high tone)	òjò	LL	rain; rainfall; precipitation (o vowel, low-low tone)	òjó	LH	personal name	tone+vowel_quality	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-C-029	B3-C-008	C	ìtúmọ̀	LHL	meaning; interpretation — ọ vowel	ìtumọ̀	LL	meaning (o vowel, undiacritized variant)				tone+vowel_quality	N	batch3	1	N	Adjudicated.
+YMPTS-C-030	YMPTS-C-005	C	kò	L	negative auxiliary; it is not (low tone, o vowel)	kọ	M	to build; to write; to learn (mid tone, ọ vowel)	kó	H	to gather; to collect; to pack up (high tone)	tone+vowel_quality	Y	merged	1	N	Adjudicated.
+YMPTS-C-031	YMPTS-C-006	C	ló	H	went; grounded (high tone, o vowel)	lọ	M	to go; directional marker (mid tone, ọ vowel)	lo	M	to use; to pass by (mid tone, o vowel, undiacritized)	tone+vowel_quality	Y	merged	1	N	Adjudicated.
+YMPTS-D-001	YMPTS-D-001	D	ṣe	M	to do; to make; to happen; to perform (post-alveolar ṣ)	se	M	Sè (to boil; to cook by boiling)	ṣé	H	did; question marker; emphatic (post-alveolar ṣ, high tone)	consonant_s_vs_sh	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-002	YMPTS-D-002	D	sun	M	Sùn (to sleep)	ṣun	M	to pinch; to take little by little; calmly				consonant_s_vs_sh	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-003	YMPTS-D-003	D	sibi	M	to the place; to a certain place	ṣibi	M	Ṣíbí (spoon)				consonant_s_vs_sh	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-004	YMPTS-D-004	D	isa	M	hole; rat's hole; burrow	iṣa	M	Ìṣa (pitcher; stale; tide)				consonant_s_vs_sh	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-005	YMPTS-D-005	D	esi	M	Èsì (answer; reply; response)	eṣi	M	Èṣì (mistake; accident; error)				consonant_s_vs_sh	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-006	YMPTS-D-006	D	ose	M	Òsè (paint)	oṣe	M	Òṣé (hissing)	ọṣẹ	M	soap	consonant_s_vs_sh	Y	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-007	YMPTS-D-008	D	aṣòfin	L	lawmaker; legislator; member of parliament (post-alveolar ṣ)	asòfin	L	lawmaker; legislator (alveolar s, variant)				consonant_s_vs_sh	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-008	YMPTS-D-010	D	san	M	to pay; to repay; to recover	ṣan	M	to be watery; to flow into; to cut down bush or forest				consonant_s_vs_sh	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-009	YMPTS-D-011	D	sin	M	to bury; to accompany; to conceal; to string; to sneeze	ṣin	M	deeply; to wash; to rinse				consonant_s_vs_sh	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-010	YMPTS-D-013	D	sẹ	M	to err; to miss; to go wrong (alveolar s, ẹ vowel)	ṣẹ	M	to accomplish; to fulfil; to carry out (post-alveolar ṣ, ẹ vowel)				consonant_s_vs_sh	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-011	YMPTS-D-014	D	soro	M	Sorọ̀ (to hang as to swing; suspend)	ṣoro	M	to be difficult; to be hard; to be tough (post-alveolar ṣ)				consonant_s_vs_sh	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-D-012	YMPTS-D-015	D	osupa	M	moon (alveolar s, undiacritized variant)	oṣupa	M	moon; the lunar body (post-alveolar ṣ, standard form)				consonant_s_vs_sh	N	merged	1	N	Adjudicated. the proper form is Òsùpá (moon)
+YMPTS-E-001	B3-E-004	E	àgbára	LH	power; strength; force — gb-internal	àbàrá	LLH	slap				gb_digraph	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-002	B3-E-006	E	gbà	L	to receive	bà	L	to perch				gb_digraph	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-003	B3-E-007	E	igbe	M	cry; shout	ibẹ̀	L	there; that place (b-internal, ẹ vowel)				gb_digraph	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-004	B3-E-008	E	àgbà	LL	elder; senior; barrel — gb-internal	àbá	LH	suggestion; idea; proposal (b-internal)				gb_digraph	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-005	B3-E-009	E	àgbẹ̀	LL	farmer — gb-internal, ẹ vowel	abẹ	M	razor blade; below; underneath (b-internal, ẹ vowel)				gb_digraph	N	batch3	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-006	YMPTS-E-001	E	ga	M	to be tall; to be high; to excel (g-initial)	gba	M	to accept; to receive; to agree; to take (gb-initial)				gb_digraph	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-007	YMPTS-E-002	E	ge	M	to cut; to harvest; to trim (g-initial)	gbé	H	to carry; to lift; to take away (gb-initial, high tone)				gb_digraph	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-008	YMPTS-E-003	E	go	M	gọ̀ (to puzzle; stupid)	gbó	H	to hear; to be old; aged (gb-initial)				gb_digraph	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-009	YMPTS-E-004	E	gbó	H	to hear; to be old; to be aged (gb-initial)	bó	H	to peel; to fall off; to come off (b-initial, high tone)				gb_digraph	N	merged	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-010	YMPTS-E-005	E	gbà	L	to collect; to accept	bà	L	to catch				gb_digraph	N	cde	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-011	YMPTS-E-007	E	ìgbà	LL	time; era; period; when; calabash gourd (internal gb)	ìbà	LL	greeting; tribute; fever; homage (internal b)				gb_digraph	N	cde	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-012	YMPTS-E-008	E	àgbà	LL	elder; senior person; old person; barrel (internal gb)	àbà	LL	hut				gb_digraph	N	cde	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-013	YMPTS-E-009	E	àgbẹ	L	farmer; cultivator; one who farms (internal gb, ẹ vowel)	abẹ	M	razor blade; knife; below; underneath (internal b, ẹ vowel)				gb_digraph	N	cde	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-014	YMPTS-E-010	E	egbé	H	Ẹgbẹ́ (group; age-mate; colleague)	ebé	H	Ẹ̀bẹ̀ (plea; request; a pile)				gb_digraph	N	cde	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-015	YMPTS-E-014	E	Ìgbẹ́	LH	forest; bush; wilderness; jungle (internal gb, ẹ vowel)	Ibẹ̀	L	there; over there; that place (internal b, ẹ vowel)				gb_digraph	N	cde	1	N	ANT-01:Q1=YES,Q2=YES | ANT-02:Q1=YES,Q2=YES
+YMPTS-E-016	YMPTS-E-006	E	gbó	H	to hear; to be old; aged (gb-initial)	bó	H	to peel; to fall off; to come off (b-initial, high tone)				gb_digraph	N	cde	1	N	Adjudicated.
+YMPTS-E-017	YMPTS-E-013	E	ègbé	LH	Ègbé (damnation; woe)	èbé	LH	plea; supplication; edge of a river (internal b, low tone)				gb_digraph	N	cde	1	N	Adjudicated.
+YMPTS-E-018	YMPTS-E-016	E	àgbá	LH	barrel; drum container; elder (internal gb, high tone)	àbá	LH	suggestion; idea; hunch; instinct (internal b, high tone)				gb_digraph	N	cde	1	N	Adjudicated.
+YMPTS-E-019	YMPTS-E-017	E	ìgbẹ́	LH	forest; bush (internal gb, high tone on ẹ)	ìbẹ́	LH	a type of oil; palm kernel oil product (internal b, high tone)				gb_digraph	N	cde	1	N	Adjudicated.
